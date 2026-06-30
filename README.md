@@ -18,10 +18,10 @@ Example:
 
 ```text
 使用 concur-expense-automation skill 帮我处理报销。
-附件目录：C:\Users\me\Downloads\QD06150618
-报销单名称：QD06150618
-Report Header Business Purpose：售前+东区+马士基工厂游学交流
-6月17日晚餐需要扣减。
+附件目录：C:\Users\me\Downloads\XXXXX
+报销单名称：XXXXX
+Report Header Business Purpose：XX+XX+XX
+
 ```
 
 ## Scope
